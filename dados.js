@@ -1,4 +1,4 @@
-let dados = [
+let dados = [ //9 elementos
     {
         titulo: "Valorant",
         descricao: "Valorant é um jogo de tiro em primeira pessoa (FPS) multijogador gratuito, desenvolvido pela Riot Games. Conhecido por seu gameplay competitivo e tático, Valorant combina a precisão dos tradicionais FPS com um sistema de agentes,cada um com habilidades únicas que influenciam o desenrolar das partidas",
