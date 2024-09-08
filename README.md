@@ -24,7 +24,3 @@ Se você digitar a palavra **aventura** no campo de pesquisa, o sistema irá bus
 - **HTML**: Estrutura básica da aplicação.
 - **CSS**: Estilização e layout da página.
 - **JavaScript**: Manipulação de dados e exibição de resultados em tempo real.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
